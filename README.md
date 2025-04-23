@@ -71,8 +71,6 @@ On re-run, it checks `Project ID` in the existing file and skips them to avoid d
 
 ## 📑 Sample Output Table
 
-### 📑 Sample Output Table
-
 | Project Name     | Project ID | Description          | Default Branch | Repo URL                                         | Languages       | Contributors         | Contributor User IDs            | Contributor Usernames    | Contributor Emails                     | File Count |
 |------------------|------------|-----------------------|----------------|--------------------------------------------------|------------------|------------------------|----------------------------------|---------------------------|----------------------------------------|------------|
 | invoice-service  | 101        | Billing microservice  | main           | https://gitlab.mycompany.com/infra/invoice       | Python, YAML     | Ramana, Sheela        | Ramana:ramana@corp.com           | Ramana, Sheela            | ramana@corp.com, sheela@corp.com       | 184        |
