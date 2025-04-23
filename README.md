@@ -71,10 +71,10 @@ On re-run, it checks `Project ID` in the existing file and skips them to avoid d
 
 ## 📑 Sample Output Table
 
-| Project Name     | Project ID | Contributors         | File Count |
-|------------------|------------|----------------------|------------|
-| invoice-service  | 101        | Ramana, Sheela       | 124        |
-| log-analyzer     | 102        | Praveen              | 287        |
+Project Name | Project ID | Description | Default Branch | Repo URL | Languages | Contributors | Contributor User IDs | Contributor Usernames | Contributor Emails | File Count
+invoice-service | 101 | Billing microservice | main | https://gitlab.mycompany.com/infra/invoice | Python, YAML | Ramana, Sheela | Ramana:ramana@corp.com | Ramana, Sheela | ramana@corp.com, sheela@corp.com | 184
+log-analyzer | 102 | Parses logs to ELK | master | https://gitlab.mycompany.com/tools/log-analyzer | Bash, Python | Praveen | Praveen:praveen@corp.com | Praveen | praveen@corp.com | 239
+ui-portal | 103 | Customer web frontend | main | https://gitlab.mycompany.com/frontend/ui-portal | JavaScript, HTML | Sheela, Praveen | Sheela:sheela@corp.com,... | Sheela, Praveen | sheela@corp.com,... | 312
 
 ---
 
